@@ -1,1 +1,1 @@
-# password_generator
+# A simple initiative to understand about the basics of python with an interesting project. Passwords are secret sequences of characters that are used to autenticate and authorize access to a computer system, network or application. It serves as a unique identifier to verify a user's identity and protect sensitive information from unauthorized access.
